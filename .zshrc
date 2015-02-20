@@ -1,4 +1,4 @@
-GOPATH=/usr/local/go_src
+GOPATH=/usr/local/go_usr
 export GOPATH
 export ZSH=~/.zsh
 
