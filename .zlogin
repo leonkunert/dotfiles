@@ -1,5 +1,6 @@
 GOPATH=/usr/local/go_usr
 export GOPATH
+PATH=$GOPATH:$PATH
 PATH=/usr/local/bin:$PATH
 PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
